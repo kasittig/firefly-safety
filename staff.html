@@ -1,0 +1,19 @@
+---
+layout: default
+title: Team
+---
+<h1>Team</h1>
+
+<ul>
+  {% for core in site.cores %}
+    <h2>{{ core.short_name }}</h2>
+    {% assign core_authors = site.authors | where: "core", core.name %}
+    {% for author in core_authors %}
+    <ul>
+      <h3>{{ author.name }}</h2>
+      <h4>{{ author.role }}</h3>
+      <p>{{ author.content | markdownify }}</p>
+    </ul>
+    {% endfor %}
+  {% endfor %}
+</ul>

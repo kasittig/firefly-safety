@@ -49,3 +49,9 @@ safe: true
 # Whitelist plugins under safe mode.
 whitelist:
   - jekyll-paginate
+
+# Collections
+collections:
+  authors:
+    output: true
+  cores:
