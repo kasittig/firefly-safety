@@ -4,12 +4,16 @@
 
 <div class="sidebar well">
     <div class="card">
-        <h1 class="card-header">Recent Posts</h1>
-    <ul class="list-group list-group-flush">
-        {% for post in site.posts limit:5 %}
-          <li class="list-group-item"><a href="{{ site.baseurl}}{{ post.url }}">{{ post.title }}</a></li>
-        {% endfor %}
-    </ul>
+        <h1 class="card-header">
+            Recent Posts
+        </h1>
+        <div class="list-group">
+            {% for post in site.posts limit:5 %}
+            <a class="list-group-item list-group-item-action" href="{{ site.baseurl}}{{ post.url }}">
+                {{ post.title }}
+            </a>
+            {% endfor %}
+        </div>
     </div>
 </div>
 
