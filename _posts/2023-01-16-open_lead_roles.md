@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Core Leads Needed"
+title: "Core Leads Needed!"
 date: 2023-01-16 19:32:00 -0500
 author: oryx
 core: all
@@ -15,9 +15,9 @@ I’m very excited to be returning as Safety Lead for 2023 and am looking forwar
 
 Our current focus is **recruiting leads for OOD, Radio, and Ranger Cores**. We will be posting info about other volunteer opportunities (inc. Fire Safety, First Aid, and Sanctuary) in mid February.
 
-**TL;DR -  
-Want to be the OOD, Radio, or Ranger Core Lead?  
-[Apply here]({{ site.baseurl }}/lead_application.html) or e-mail [Oryx](mailto:oryx@fireflyartscollective.org) before February 1st!**
+> **TL;DR**  
+> Want to be the OOD, Radio, or Ranger Core Lead?  
+> [Apply here]({{ site.baseurl }}/lead_application.html) or e-mail [Oryx](mailto:oryx@fireflyartscollective.org) before **February 1st**!
 
 ### Who are OOD, Radio, and Ranger Volunteers?
 
