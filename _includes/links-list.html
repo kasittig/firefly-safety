@@ -1,9 +1,9 @@
 <div class="card">
-    <h1 class="card-header">
+    <div class="card-header">
         Links
-    </h1>
+    </div>
     
-    <div class="list-group">
+    <div class="list-group list-group-flush">
         <a class="list-group-item list-group-item-action" href="{{ site.baseurl }}/lead_application.html">Core Lead Application</a>
         {% for item in site.data.links %}
         <a class="list-group-item list-group-item-action" href={{ item.link }}>
@@ -11,5 +11,4 @@
         </a>
         {% endfor %}
     </div>
-
 </div>

@@ -1,8 +1,3 @@
-body {
-    padding-top: 60px;
-    padding-bottom: 60px;
-}
-
 .copyright {
     color: #ffffff;
 }
@@ -15,13 +10,16 @@ body {
     color: #ee4444;
 }
 
-.sidebar h1 {
-    color: #ee4444;
-    font-size: 1.3em;
-}
-
 .sidebar a {
     color: #428bca;
+}
+
+.card a {
+    color: #428bca;
+}
+
+.card a:hover {
+    color: #3071a9;
 }
 
 .sidebar li {
@@ -42,10 +40,28 @@ body {
     font-size: 1.3em;
 }
 
+.sidebar .card-header {
+    color: #ee4444;
+    font-size: 1.3em;
+}
+
 .author {
     color: #ee4444;
 }
 
 .author a {
     color: #ee4444;
+}
+
+.article h1 {
+    font-size: 1.5em;
+}
+
+.article h3 {
+    font-size: 1.4em;
+}
+
+.card {
+    padding: 0 0 0 0;
+    margin: 0.5em 0.5em 0.5em 0.5em;
 }
