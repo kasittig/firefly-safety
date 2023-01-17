@@ -4,7 +4,7 @@ name: Firefly Safety
 description: Information about the Firefly Arts Collective's Safety teams
 
 # url is currently only used only for the RSS feed in feed.xml
-url: https://kasittig.github.io
+url: https://safety.fireflyartscollective.org
 
 # baseurl will often be '', but for a project page on gh-pages, it needs to
 # be the project name.
