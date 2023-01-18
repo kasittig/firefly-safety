@@ -51,9 +51,9 @@ More personally, love is a verb, and the heart of Firefly is the volunteers who 
 
 Please either fill out the volunteer application or [e-mail me](mailto:oryx@fireflyartscollective.org)! I will do my best to reach out within a week of receiving your message. All applications received before **February 1** will receive equal consideration.
 
-I want to support new voices in Firefly leadership! **If you're curious, but you feel nervous, intimidated, or otherwise unqualified, you are especially encouraged to apply :)**
+My **ideal candidate** has **some project management or leadership experience** in addition to **experience volunteering with the Core** they're interested in leading. If you're **interested in volunteering,** but you **don't fit this description**, please **fill out the application anyway!** I am passionate about getting more people involved in Firefly leadership and I will work with you to get the experience you need to fill the role in the future. Please don't be shy!!
 
-My goal is to find an awesome leadership opportunity for everyone who expresses interest, so please don’t be shy!
+Looking forward to seeing you all soon in the woods :)
 
 Best,  
 -Oryx
